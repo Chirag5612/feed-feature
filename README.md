@@ -1,3 +1,13 @@
+# Description
+
+- like/unline a feed
+- add commnets on a feed
+
+- user can view code functionality for
+- how to create a feed  
+- like/unlike a feed
+- add commnets on a feed
+
 # blok-backend
 
 
