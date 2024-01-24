@@ -8,12 +8,7 @@ Allows users to like/unlike a feed & add commnets on a feed
 - like/unlike a feed
 - add commnets on a feed
 
-# blok-backend
-
-
-<br />
-changes 
-## Installation/Setup
+# Installation/Setup
 
 - git clone https://github.com/hfxlabs/blok-backend.git
 - cd blok-backend
