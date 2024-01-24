@@ -146,11 +146,11 @@ Follow .env.sample for making a .env file.
 
 ## List of 3rd party libraries and dependencies used in the project:
 
-twilio:- to send generated OTP to the user
-validatorjs:- API payload data validation
-nodemailer-express-handlebars:- for mail template
-multer: for image upload
-morgan:- HTTP request logger middleware
+- twilio:- to send generated OTP to the user
+- validatorjs:- API payload data validation
+- nodemailer-express-handlebars:- for mail template
+- multer: for image upload
+- morgan:- HTTP request logger middleware
 
 ### API Endpoints
 
