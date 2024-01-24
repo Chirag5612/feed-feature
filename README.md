@@ -103,44 +103,10 @@ Follow .env.sample for making a .env file.
 * Description: AWS credentials and S3 bucket name for file storage.
 * Mock Example: `3600 (for one hour)`
 
-`TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN:`
-
-* Description: Twilio account credentials for SMS gateway.
-
 `APP_SUCCESS_MESSAGE, APP_ERROR_MESSAGE, APP_DELETE_MESSAGE, APP_GET_MESSAGE, APP_CHANGE_STATUS_MESSAGE:`
 
 * Description: Messages used in the application for various operations.
 * Mock Example: `refer .env.sample`
-
-`FIREBASE_TYPE`
-* Description: account type used.
-
-`FIREBASE_PROJECT_ID`
-* Description: firebase project id.
-
-`FIREBASE_PRIVATE_KEY_ID`
-* Description: firebase private key id for notification.
-
-`FIREBASE_CLIENT_EMAIL`
-* Description: firebase client email address for notification.
-
-`FIREBASE_CLIENT_ID`
-* Description: firebase client id for notification.
-
-`FIREBASE_AUTH_URI`
-* Description: firebase auth url.
-
-`FIREBASE_TOKEN_URI`
-* Description: firebase token url for notification.
-
-`FIREBASE_AUTH_PROVIDER_X509_CERT_URL`
-* Description: firebase auth provider for notification.
-
-`FIREBASE_CLIENT_X509_CERT_URL`
-* Description: firebase client provider CERT url for notification.
-
-`FIREBASE_UNIVERSE_DOMAIN`
-* Description: firebase client universe domain for notification.
 
 ----
 
