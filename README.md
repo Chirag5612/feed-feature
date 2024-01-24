@@ -1,7 +1,7 @@
-# Description
+## Feature
 
- like/unlike a feed
- add commnets on a feed
+ - **Feed functionality:** 
+Allows users to like/unlike a feed & add commnets on a feed
 
 - user can view code functionality for
 - how to create a feed  
