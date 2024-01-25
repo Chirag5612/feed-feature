@@ -10,8 +10,8 @@ Allows users to like/unlike a feed & add commnets on a feed
 
 # Installation/Setup
 
-- git clone https://github.com/hfxlabs/blok-backend.git
-- cd blok-backend
+- git clone https://github.com/Chirag5612/feed-feature.git
+- cd feed-feature
 - npm install
 - Prepare the environment variables by generating .env file just as .env.sample file
 - npm run start:dev
@@ -22,13 +22,6 @@ Allows users to like/unlike a feed & add commnets on a feed
 - npm run start
 
 - Deploy the build with firebase hosting / vercel /Ec2
-
-## Test Cases/Test Cases Setup
-
-- npm run test
-- npm run test:single
-
-- Run test cases with jest
 
 ## [Environment Variables](#environment-variables)
 
@@ -109,17 +102,3 @@ Follow .env.sample for making a .env file.
 * Mock Example: `refer .env.sample`
 
 ----
-
-## List of 3rd party libraries and dependencies used in the project:
-
-- twilio:- to send generated OTP to the user
-- validatorjs:- API payload data validation
-- nodemailer-express-handlebars:- for mail template
-- multer: for image upload
-- morgan:- HTTP request logger middleware
-
-### API Endpoints
-
-- Documentation: [Link](https://documenter.getpostman.com/view/24182239/2s9XxsVGju)
-
-### TODO
