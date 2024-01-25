@@ -64,7 +64,7 @@ Follow .env.sample for making a .env file.
 `APP_NAME:`
 
 * Description: Name of the application.
-* Mock Example: `Blok App`
+* Mock Example: `Your app name`
 
 `PORT:`
 
